@@ -6,6 +6,7 @@
 
 _Built with Next.js, FastAPI, and intelligent MCP services._
 
+
 ---
 
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
